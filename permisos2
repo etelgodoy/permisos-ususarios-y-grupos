@@ -1,0 +1,9 @@
+
+para poder visualizar los permisos en mi terminal, debo abrir mi carpeta de trabajo, para ver cuales son los elementos que hay dentro, ejecutare el comando ls -l.Este me arrojara toda la info relevante de los archivos o carpetas que hay dentro.
+los permisos se ven asi: -rwxrwxewx 
+los comandos que vamos a utilizar seran los siguientes.
+chmod: se utiliza para cambiar permisos
+adduser: para añadir un usuario
+groupadd: para añadir grupo
+chgrp: para cambiar quien es grupo dueño de un archivo.
+su:para ejecutar como si fuera otro usuario.
